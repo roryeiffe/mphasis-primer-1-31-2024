@@ -9,3 +9,9 @@
 - Describe the Shared Responsibility Model.
 - What is Azure Resource Manager?
 - What is Azure Virtual Machines?
+
+### CICD
+
+
+### Bonus
+- Try it out: What happens to our Azure Web App if we delete the repo?
