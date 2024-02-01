@@ -11,6 +11,25 @@
 - What is Azure Virtual Machines?
 
 ### CICD
+- What is the difference between Continuous Integration and Continuous Delivery and Continuous Deployment?
+- What purpose does Azure Functions serve? How does it differ from an Azure Web App?
+- Describe Azure Logic Apps. What are some of the benefits of using Azure Logic Apps?
+- What is Azure Repos?
+
+### Big Data
+- What is Data Governance?
+- What is Data Security?
+- What is Risk and Compliance?
+- What is Data Lake Storage? What kind of data can we store?
+- What is Azure Databricks? What kind of workloads can we run?
+- What is HDInsight? What kind of workloads can we run?
+- What is Azure Data Explorer? What kind of workloads can we run?
+- What is Azure Purview?
+- What is Azure Stream Analytics? What kind of workloads can we run?
+- What Azure service would be best for real-time analytics on IoT data?
+- What Azure service would be best for real-time fraud detection?
+- What Azure service would be best for real-time monitoring?
+
 
 
 ### Bonus

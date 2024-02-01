@@ -60,3 +60,7 @@
 - A new action should automatically start and after it finishes, you should see the change
   - Might need to wait a few minutes for the change to appear or use an incognito/private tab
 - Try to push with a failing test and ensure that the change doesn't go through.
+
+### Cleaning Up
+- Navigate to the resource, click delete, and type whatever confirmation message is required.
+- Can also go to "All Resources" and delete all resources with the same resource group
