@@ -30,6 +30,17 @@
 - What Azure service would be best for real-time fraud detection?
 - What Azure service would be best for real-time monitoring?
 
+### Security
+
+- What does IAM stand for? What does it mean?
+- What is SSO?
+- What is MFA?
+- What is the difference between authentication and authorization?
+- What is Azure AD?
+- What is ADFS?
+- What is Azure Key Vault?
+- What kinds of things can we store with Azure Key Vault?
+- How is Azure AD different from ADFS?
 
 
 ### Bonus

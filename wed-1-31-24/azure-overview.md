@@ -73,7 +73,3 @@ There are situations where one could be preferred over the other. Usually, it's 
 
 ## Questions to Research
 - Vertical Scaling - When we scale up, how do we avoid downtimes?
-
-## Recordings
-- [First Half](https://revature0-my.sharepoint.com/:v:/g/personal/rory_eiffe_revature_com/EbkZfa_CGO5Ii8AprazpCwQBdG-TSChaV7B06gDPJL7pBQ?referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view.view)
-- [Second Half](https://revature0-my.sharepoint.com/:v:/g/personal/rory_eiffe_revature_com/EWiLcW5FnblIquW9glYpwWIB14v4aGJygO8tTHg_1lIVTA?referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view.view)
