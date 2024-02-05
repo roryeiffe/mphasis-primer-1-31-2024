@@ -8,3 +8,4 @@
 - IaC, Azure Infrastructure
 
 ## Recordings
+- [Recording](https://revature0-my.sharepoint.com/:v:/g/personal/rory_eiffe_revature_com/EROErbnu-jZKkLSNjHLqRfUBRbHSJvdmssDxkWQoidXWWA?e=V2cOSL)

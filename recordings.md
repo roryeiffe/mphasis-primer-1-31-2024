@@ -5,5 +5,8 @@
 
 
 ## 2/1/24
-- [First HAlf](https://revature0-my.sharepoint.com/:v:/g/personal/rory_eiffe_revature_com/EU0tbm17Fc5EhHhx3hIUc1sBFFzlqyC29nSjDuplbDPpoQ?e=fBHnmS)
+- [First Half](https://revature0-my.sharepoint.com/:v:/g/personal/rory_eiffe_revature_com/EU0tbm17Fc5EhHhx3hIUc1sBFFzlqyC29nSjDuplbDPpoQ?e=fBHnmS)
 - [Second Half](https://revature0-my.sharepoint.com/:v:/g/personal/rory_eiffe_revature_com/EbNPyW9sEMVOjibh2R7dS4oBxEaMtRlL1w_CERiMO0viYA?e=mUGGiL)
+
+## 2/2/24
+- [Recording](https://revature0-my.sharepoint.com/:v:/g/personal/rory_eiffe_revature_com/EROErbnu-jZKkLSNjHLqRfUBRbHSJvdmssDxkWQoidXWWA?e=V2cOSL)
