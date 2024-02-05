@@ -31,7 +31,6 @@
 - What Azure service would be best for real-time monitoring?
 
 ### Security
-
 - What does IAM stand for? What does it mean?
 - What is SSO?
 - What is MFA?
@@ -43,6 +42,29 @@
 - How is Azure AD different from ADFS?
 
 ### Infrastructure/Storage
+1. What is Azure Kubernetes Service (AKS)?
+1. What is Kubernetes?
+1. What are containers?
+1. What is Azure Images?
+1. What is Azure Load Balancer?
+1. What is a Network Load Balancer?
+1. What is Azure VPN Gateway?
+1. What is Azure Storage?
+1. What is Azure Disk Storage?
+1. What is Azure Blob Storage?
+1. What is Azure Data Lake Storage?
+1. What is Azure File Storage?
+1. What is Azure NetApp Files?
+1. What is Azure File Sync?
+1. What is Azure Stack Edge?
+1. What is Azure Data Box?
+1. What is Azure Cache for Redis?
+1. What is Azure Backup?
+1. What can Azure Backup back-up?
+1. What is the difference between Azure Stack Edge and Azure Data Box?
+1. What is the difference between Azure File Sync and Azure File Storage?
+1. What is the difference between Azure Disk Storage and Azure Blob Storage?
+1. What does unstructured data mean?
 
 
 ### Bonus
