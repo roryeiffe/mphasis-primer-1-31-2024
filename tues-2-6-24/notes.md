@@ -14,3 +14,11 @@ Azure Resource Manager (ARM) templates are JSON files that define the resources 
 - [Azure ARM Templates](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/overview)
 - [IaC and Terraform in 100 seconds](https://www.youtube.com/watch?v=tomUWcQ0P3k)
 - [Terraform demo with Azure](https://www.youtube.com/watch?v=OAWBHyNKrzw)
+
+## Interview Questions
+- What is Infrastructure as Code (IaC)?
+- What are the benefits of using IaC?
+- What is Terraform?
+- How does Terraform work?
+- What is an Azure Resource Manager (ARM) template?
+- What are the differences between Terraform and ARM templates?
