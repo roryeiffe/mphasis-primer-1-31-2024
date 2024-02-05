@@ -42,6 +42,8 @@
 - What kinds of things can we store with Azure Key Vault?
 - How is Azure AD different from ADFS?
 
+### Infrastructure/Storage
+
 
 ### Bonus
 - Try it out: What happens to our Azure Web App if we delete the repo?
