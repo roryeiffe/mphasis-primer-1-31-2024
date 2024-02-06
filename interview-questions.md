@@ -66,6 +66,13 @@
 1. What is the difference between Azure Disk Storage and Azure Blob Storage?
 1. What does unstructured data mean?
 
+### IaC
+- What is Infrastructure as Code (IaC)?
+- What are the benefits of using IaC?
+- What is Terraform?
+- How does Terraform work?
+- What is an Azure Resource Manager (ARM) template?
+- What are the differences between Terraform and ARM templates?
 
 ### Bonus
 - Try it out: What happens to our Azure Web App if we delete the repo?
