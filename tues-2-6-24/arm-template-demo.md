@@ -53,3 +53,11 @@
 1. Add more services until you have everything you need for your app
 1. Once done setting up the blueprint for our app, hit save, then review + create
 1. The resources should be created based on the blue print
+
+
+## Template Specs
+- Can upload our own template and store them
+- Can create a spec, give name, description, version, etc.
+- Fill out the template code and then create
+- Go to resources to view template
+- Once the template is created, should have the option to deploy all of the services that are configured in the template
