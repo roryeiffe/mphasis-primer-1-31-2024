@@ -10,3 +10,7 @@
 
 ## 2/2/24
 - [Recording](https://revature0-my.sharepoint.com/:v:/g/personal/rory_eiffe_revature_com/EROErbnu-jZKkLSNjHLqRfUBRbHSJvdmssDxkWQoidXWWA?e=V2cOSL)
+
+## 2/5/24
+- [First Half](https://revature0-my.sharepoint.com/:v:/g/personal/rory_eiffe_revature_com/EbYo2aTJi-5Crlk6-ilOh1UBRrV-nZFFyJ-AcmoE-Q1PLg?e=pV0PIb)
+- [Second Half](https://revature0-my.sharepoint.com/:v:/g/personal/rory_eiffe_revature_com/EQMKAnuP6_dGl7ITNVtTGUsB0j2K06vf27zUSP2tNayiiQ?e=DivV1f)
