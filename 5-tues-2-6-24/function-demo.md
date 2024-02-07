@@ -49,3 +49,4 @@
 - If you can't execute the function from the extension, try using the curl command as discussed
 - When creating the Azure Function Resource, choose the "advanced" option
   - Choose "Consumption" and create a new storage account
+- When in doubt, might want to recreate a resource and/or the local function
