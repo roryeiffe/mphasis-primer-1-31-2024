@@ -1,0 +1,28 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+        {
+            "type": "func",
+            "label": "func: host start",
+            "command": "host start",
+            "problemMatcher": "$func-java-watch",
+            "isBackground": true,
+            "options": {
+                "cwd": "${workspaceFolder}/5-tues-2-6-24\\function/target/azure-functions/function-1707336399903"
+            },
+            "dependsOn": "package (functions)"
+        },
+        {
+            "label": "package (functions)",
+            "command": "mvn clean package",
+            "type": "shell",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "options": {
+                "cwd": "${workspaceFolder}/5-tues-2-6-24\\function"
+            }
+        }
+    ]
+}

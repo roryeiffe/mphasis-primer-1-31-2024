@@ -38,4 +38,14 @@
 1. From command line, can run the following:
   - curl -d "HTTP Body" {your host}/api/HttpExample
   - curl "{your host}/api/HttpExample?name=HTTP%20Query"
-  - Can grab the hose url from the resource on the portal
+  - Can grab the host url from the resource on the portal
+
+
+## Troubleshooting Tips
+- If there is an error "bracnhDataProvier.getResourceItem..."
+  - Delete .vscode folder and restart VSCode
+- If your local function is not appearing in the "Workspace" section of the extension, double check that the folder only contains one "host.json"
+  - Sometimes, a host.json is generated in target/azure-functions/function-#########
+- If you can't execute the function from the extension, try using the curl command as discussed
+- When creating the Azure Function Resource, choose the "advanced" option
+  - Choose "Consumption" and create a new storage account

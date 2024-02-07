@@ -14,7 +14,7 @@
         <java.version>17</java.version>
         <azure.functions.maven.plugin.version>1.31.0</azure.functions.maven.plugin.version>
         <azure.functions.java.library.version>3.1.0</azure.functions.java.library.version>
-        <functionAppName>function-1707253473082</functionAppName>
+        <functionAppName>function-1707336399903</functionAppName>
     </properties>
 
     <dependencies>

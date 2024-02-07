@@ -7,6 +7,7 @@
     - In interviews, if asked "what other technologies do you know?" only give answers that you are prepared to talk about
   - Exploring new services (make sure to get the basics down first)
     - Make sure to check pricing
+- Make sure to update resumes!
 
 ## Old Exercises
 - Web App - Creating a web app that returns a simple message
